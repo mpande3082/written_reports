@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"name": "Energy_Time_Series_Analysis",
+		"path": "../Energy_Time_Series_Analysis"
+	},
+	{
+		"name": "Free_Harmonic_Oscillator_Final_Report",
+		"path": "."
+	}
+],
+  "settings": {}
+}
