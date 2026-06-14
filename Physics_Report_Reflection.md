@@ -1,0 +1,5 @@
+The most challenging part of writing this report was striking a balance between content to assume the reader knows and content to explain to the reader. Some examples of judgement calls I had to make include whether to explain error threshold for a significantly large sigma/delta, how error is propagated, that force is mass times gravity, and whether to include a reference for Pittsburgh's local gravity value. I asked my professor for clarity on some of these questions.
+
+I hope to receive feedback on how detailed I should go into the procedure and data analysis and whether I over or underexplained. Also, I did not explain the details of the systems whose spring constants were measured because I figured that the experiment could be replicated with any kinds of different mass-spring systems and because I explain this in the table. In general, I hope the feedback gives me more intuition for the level of rigor needed for replicability and a sense of confidence to explain exactly why I am including or omitting a detail.
+
+
