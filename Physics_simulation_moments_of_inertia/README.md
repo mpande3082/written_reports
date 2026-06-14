@@ -1,1 +1,0 @@
-# Physics_simulation_moments_of_inertia
